@@ -1,4 +1,4 @@
-#!name=搬瓦工 VPS 流量
+#!name=🟦 搬瓦工VPS流量 ⏳
 #!desc=v2.0 使用 GitHub HTTPS 托管脚本。通过 KiwiVM API 显示 VPS 状态、月流量、剩余流量和重置时间。
 #!arguments=VEID:请填写VEID,API_KEY:请填写API_KEY
 #!requirement=CORE_VERSION>=20
